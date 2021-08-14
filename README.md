@@ -19,7 +19,7 @@ Windows & Office Deployment Kit - https://docs.microsoft.com/en-us/microsoft-365
 What is Configuration Manager - https://docs.microsoft.com/en-us/mem/configmgr/core/understand/introduction
 
 <ul>
-  <li>[Windows Update for Business](https://docs.microsoft.com/en-us/windows/deployment/update/waas-manage-updates-wufb)</li>
+  <li> [Windows Update for Business] (https://docs.microsoft.com/en-us/windows/deployment/update/waas-manage-updates-wufb)</li>
   <li>[]()</li>
   <li>[]()</li>
 </ul>
